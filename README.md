@@ -16,14 +16,20 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 - [GAN Inversion](#gan-inversion)
 - [3D-GAN](#3d-gan)
+- [Image Synthesis](#image-synthesis)
 </p></details><p></p>
 
 
-## GAN Inversion
+## GAN Inversion and Editing
+
+**Expanding the Latent Space of StyleGAN for Real Face Editing.**<br>
+*Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>
+ArXiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
 
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
 *Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)]
+
 
 ## 3D-GAN
 
