@@ -1,5 +1,5 @@
 # <p align=center>`awesome-generation`</p>
-A collection of resources on generation.
+A collection of resources on generation. Maintained by [IIGroup](https://sites.google.com/view/iigroup-thu/home?authuser=0).
 
 <!-- ## Contributing
 
@@ -15,19 +15,19 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 <details><summary>Table of Contents</summary><p>
 
 - [GAN Inversion](#gan-inversion)
-- [Neural Rerendering](#neural-rerendering)
+- [3D-GAN](#3d-gan)
 </p></details><p></p>
 
 
 ## GAN Inversion
 
-**Modeling Indirect Illumination for Inverse Rendering.**<br>
-*Yuanqing Zhang, Jiaming Sun, Xingyi He, Huan Fu, Rongfei Jia, Xiaowei Zhou.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.06837)]
+**HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
+*Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)]
 
-## Neural Rerendering
+## 3D-GAN
 
-**MetaNLR: Fast Training of Neural Lumigraph Representations using Meta Learning.**<br>
-*Alexander W. Bergman, Petr Kellnhofer, and [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14942)] [[Project](https://www.computationalimaging.org/publications/metanlr/)] [[Video](https://youtu.be/5pBFwyUyW6o)]
+**Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
+*Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
