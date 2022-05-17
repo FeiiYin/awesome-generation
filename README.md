@@ -14,7 +14,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 <details><summary>Table of Contents</summary><p>
 
-- [GAN Inversion](#gan-inversion-and-editing)
+- [GAN Inversion and Editing](#gan-inversion-and-editing)
 - [3D-GAN](#3d-gan)
 - [Image Synthesis](#image-synthesis)
 </p></details><p></p>
