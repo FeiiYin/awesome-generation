@@ -14,7 +14,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 <details><summary>Table of Contents</summary><p>
 
-- [GAN Inversion](#gan-inversion)
+- [GAN Inversion](#gan-inversion-and-editing)
 - [3D-GAN](#3d-gan)
 - [Image Synthesis](#image-synthesis)
 </p></details><p></p>
@@ -37,3 +37,6 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)]
 *Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
+## Image Synthesis
+
+TODO
