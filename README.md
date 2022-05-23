@@ -37,6 +37,18 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)]
 *Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
+## Style Transfer
+
+**Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data.**<br>
+*Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br>
+TPAMI 2022. [[PDF](https://arxiv.org/abs/2202.03678)]
+
+## Talking-Head Video Generation
+
+**Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions.**<br>
+*Zipeng Ye, Zhiyao Sun, Yu-Hui Wen, Yanan Sun, Tian Lv, Ran Yi, Yong-Jin Liu.*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2204.06180)]
+
 ## Image Synthesis
 
 TODO
