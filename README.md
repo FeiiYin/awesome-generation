@@ -16,7 +16,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 - [GAN Inversion and Editing](#gan-inversion-and-editing)
 - [3D-GAN](#3d-gan)
-- [Style Transfer](#Style Transfer)
+- [Style Transfer](#style-transfer)
 - [Talking-Head Video Generation](#talking-head-video-generation)
 - [Image Synthesis](#image-synthesis)
 </p></details><p></p>
