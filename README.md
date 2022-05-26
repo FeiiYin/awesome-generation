@@ -32,6 +32,10 @@ ArXiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
 *Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)]
 
+**Overparameterization Improves StyleGAN Inversion.**<br>
+*Yohan Poirier-Ginter, Alexandre Lessard, Ryan Smith, Jean-François Lalonde.*<br>
+CVPR WorkShop 2022. [[PDF](https://arxiv.org/abs/2205.06304)]
+
 
 ## 3D-GAN
 
