@@ -55,6 +55,9 @@ TPAMI 2022. [[PDF](https://arxiv.org/abs/2202.03678)]
 *Zipeng Ye, Zhiyao Sun, Yu-Hui Wen, Yanan Sun, Tian Lv, Ran Yi, Yong-Jin Liu.*<br>
 SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2204.06180)]
 
+**One-Shot Face Reenactment on Megapixels.**<br>
+Submitted to ECCV 2022. [[PDF](https://arxiv.org/abs/2205.13368)]
+
 ## Image Synthesis
 
 TODO
