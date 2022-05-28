@@ -36,6 +36,9 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15666)]
 *Yohan Poirier-Ginter, Alexandre Lessard, Ryan Smith, Jean-François Lalonde.*<br>
 CVPR WorkShop 2022. [[PDF](https://arxiv.org/abs/2205.06304)]
 
+**Towards High-Fidelity Face Self-occlusion Recovery via Multi-view Residual-based GAN Inversion.**<br>
+AAAI 2022. [[PDF](https://aaai-2022.virtualchair.net/poster_aaai2208)]
+
 
 ## 3D-GAN
 
