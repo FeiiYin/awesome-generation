@@ -19,6 +19,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Style Transfer](#style-transfer)
 - [Talking-Head Video Generation](#talking-head-video-generation)
 - [Image Synthesis](#image-synthesis)
+- [UV Space](#uv-space)
 </p></details><p></p>
 
 
@@ -64,3 +65,14 @@ Submitted to ECCV 2022. [[PDF](https://arxiv.org/abs/2205.13368)]
 ## Image Synthesis
 
 TODO
+
+## UV Space
+
+**UV-GAN: Adversarial Facial UV Map Completion for Pose-invariant Face Recognition**<br>
+CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_UV-GAN_Adversarial_Facial_CVPR_2018_paper.pdf)]
+
+**A 3D GAN for Improved Large-pose Facial Recognition**<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Marriott_A_3D_GAN_for_Improved_Large-Pose_Facial_Recognition_CVPR_2021_paper.pdf)]
+
+**StyleUV: Diverse and High-fidelity UV Map Generative Model**<br>
+Arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12893)]
