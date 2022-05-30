@@ -62,6 +62,10 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2204.06180)]
 **One-Shot Face Reenactment on Megapixels.**<br>
 Submitted to ECCV 2022. [[PDF](https://arxiv.org/abs/2205.13368)]
 
+**Video2StyleGAN: Disentangling Local and Global Variations in a Video**<br>
+*Rameen Abdal, Peihao Zhu, Niloy J. Mitra, Peter Wonka. KAUST*<br>
+Submitted to SIGGRAPH-Asia 2022. [[PDF](https://arxiv.org/abs/2205.13996)]
+
 ## Image Synthesis
 
 TODO
