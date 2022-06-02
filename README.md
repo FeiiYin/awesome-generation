@@ -48,7 +48,7 @@ AAAI 2022. [[PDF](https://aaai-2022.virtualchair.net/poster_aaai2208)]
 CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
 **IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis.**<br>
-Submitted to SIGGRAPH-Asia. [[PDF]]
+Submitted to SIGGRAPH-Asia. [[PDF](https://arxiv.org/abs/2205.15517)]
 
 ## Style Transfer
 
