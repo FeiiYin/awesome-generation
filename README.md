@@ -20,6 +20,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Talking-Head Video Generation](#talking-head-video-generation)
 - [Image Synthesis](#image-synthesis)
 - [UV Space](#uv-space)
+- [Denoising Diffusion](#denosing-diffusion)
 </p></details><p></p>
 
 
@@ -83,3 +84,13 @@ CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Marriott
 
 **StyleUV: Diverse and High-fidelity UV Map Generative Model**<br>
 Arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12893)]
+
+## Denosing Diffusion
+
+**Denoising Diffusion Probabilistic Models**<br>
+*Jonathan Ho, Ajay Jain, Pieter Abbeel.*<br>
+NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)]
+
+**Improved Denoising Diffusion Probabilistic Models**<br>
+*Alex Nichol, Prafulla Dhariwal.*<br>
+PMLR 2021.[[PDF](http://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf)]
