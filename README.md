@@ -57,6 +57,10 @@ Submitted to SIGGRAPH-Asia. [[PDF](https://arxiv.org/abs/2205.15517)]
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br>
 TPAMI 2022. [[PDF](https://arxiv.org/abs/2202.03678)]
 
+**Cross-Domain Style Mixing for Face Cartoonization.**<br>
+Layer Swap and Style Mixing
+Arxiv 2022. [[PDF](https://arxiv.org/abs/2205.12450)]
+
 ## Talking-Head Video Generation
 
 **Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions.**<br>
