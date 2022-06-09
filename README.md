@@ -89,6 +89,10 @@ CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Marriott
 **StyleUV: Diverse and High-fidelity UV Map Generative Model**<br>
 Arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12893)]
 
+**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**<br>
+NVIDIA
+CVPR 2022. [[PDF](https://nv-tlabs.github.io/AUV-NET/assets/auvnet-paper.pdf)]
+
 ## Denosing Diffusion
 
 **Denoising Diffusion Probabilistic Models**<br>
