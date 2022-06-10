@@ -23,6 +23,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Denoising Diffusion](#denosing-diffusion)
 </p></details><p></p>
 
+## Image Synthesis
+
+TODO
 
 ## GAN Inversion and Editing
 
@@ -74,9 +77,22 @@ Submitted to ECCV 2022. [[PDF](https://arxiv.org/abs/2205.13368)]
 *Rameen Abdal, Peihao Zhu, Niloy J. Mitra, Peter Wonka. KAUST*<br>
 Submitted to SIGGRAPH-Asia 2022. [[PDF](https://arxiv.org/abs/2205.13996)]
 
-## Image Synthesis
+## Vector Quantisation - Token-based Generative Models
+**Neural Discrete Representation Learning (VQVAE)**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer*<br>
+NIPS2017. [[PDF](https://arxiv.org/abs/1711.00937)]
 
-TODO
+**Taming Transformers for High-Resolution Image Synthesis (VQGAN)**<br>
+*Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
+CVPR2021 oral. [[PDF](https://arxiv.org/abs/2012.09841)]
+
+**Vector-quantized Image Modeling with Improved VQGAN (ViT-VQGAN)**
+*Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu* <br>
+ICLR2022 spotlight. [[PDF](https://arxiv.org/abs/2110.04627)]
+
+**MaskGIT: Masked Generative Image Transformer**
+*Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman* <br>
+CVPR2022. [[PDF](https://arxiv.org/abs/2202.04200)]
 
 ## UV Space
 
