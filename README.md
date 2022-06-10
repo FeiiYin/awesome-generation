@@ -25,7 +25,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Image Synthesis
 
-TODO
+**StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.** <br>
+*Axel Sauer, Katja Schwarz, Andreas Geiger.*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.00273)]
 
 ## GAN Inversion and Editing
 
@@ -80,19 +82,19 @@ Submitted to SIGGRAPH-Asia 2022. [[PDF](https://arxiv.org/abs/2205.13996)]
 ## Vector Quantisation - Token-based Generative Models
 **Neural Discrete Representation Learning (VQVAE)**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer*<br>
-NIPS2017. [[PDF](https://arxiv.org/abs/1711.00937)]
+NIPS 2017. [[PDF](https://arxiv.org/abs/1711.00937)]
 
 **Taming Transformers for High-Resolution Image Synthesis (VQGAN)**<br>
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
-CVPR2021 oral. [[PDF](https://arxiv.org/abs/2012.09841)]
+CVPR 2021 oral. [[PDF](https://arxiv.org/abs/2012.09841)]
 
 **Vector-quantized Image Modeling with Improved VQGAN (ViT-VQGAN)**
-*Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu* <br>
-ICLR2022 spotlight. [[PDF](https://arxiv.org/abs/2110.04627)]
+*Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
+ICLR 2022 spotlight. [[PDF](https://arxiv.org/abs/2110.04627)]
 
 **MaskGIT: Masked Generative Image Transformer**
-*Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman* <br>
-CVPR2022. [[PDF](https://arxiv.org/abs/2202.04200)]
+*Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2202.04200)]
 
 ## UV Space
 
