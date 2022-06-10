@@ -88,11 +88,11 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1711.00937)]
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
 CVPR 2021 oral. [[PDF](https://arxiv.org/abs/2012.09841)]
 
-**Vector-quantized Image Modeling with Improved VQGAN (ViT-VQGAN)**
+**Vector-quantized Image Modeling with Improved VQGAN (ViT-VQGAN)**<br>
 *Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
 ICLR 2022 spotlight. [[PDF](https://arxiv.org/abs/2110.04627)]
 
-**MaskGIT: Masked Generative Image Transformer**
+**MaskGIT: Masked Generative Image Transformer**<br>
 *Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2202.04200)]
 
