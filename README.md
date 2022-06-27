@@ -16,6 +16,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 - [GAN Inversion and Editing](#gan-inversion-and-editing)
 - [3D-GAN](#3d-gan)
+- [NeRF editing](#nerf-editing)
 - [Style Transfer](#style-transfer)
 - [Talking-Head Video Generation](#talking-head-video-generation)
 - [Image Synthesis](#image-synthesis)
@@ -33,7 +34,13 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.00273)]
 
 **Expanding the Latent Space of StyleGAN for Real Face Editing.**<br>
 *Yin Yu, Ghasedi Kamran, Wu HsiangTao, Yang Jiaolong, Tong Xi, Fu Yun.*<br>
+Abstract: F Space Inversion.
 ArXiv 2022. [[PDF](https://arxiv.org/abs/2204.12530)]
+
+**Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing**<br>
+*Gaurav Parmar, Yijun Li, Jingwan Lu, Richard Zhang, Jun-Yan Zhu, Krishna Kumar Singh*<br>
+Abstract: Invertibility and Multi-F Space Inversion.
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Parmar_Spatially-Adaptive_Multilayer_Selection_for_GAN_Inversion_and_Editing_CVPR_2022_paper.pdf)]
 
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
 *Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
@@ -55,6 +62,12 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 
 **IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis.**<br>
 Submitted to SIGGRAPH-Asia. [[PDF](https://arxiv.org/abs/2205.15517)]
+
+## NeRF Editing
+
+**Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields.**<br>
+*MMlab & VGG*<br>
+Submitted to NIPS 2022. [[PDF](https://arxiv.org/abs/2206.08361)]
 
 ## Style Transfer
 
