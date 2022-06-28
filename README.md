@@ -92,6 +92,14 @@ Submitted to ECCV 2022. [[PDF](https://arxiv.org/abs/2205.13368)]
 *Rameen Abdal, Peihao Zhu, Niloy J. Mitra, Peter Wonka. KAUST*<br>
 Submitted to SIGGRAPH-Asia 2022. [[PDF](https://arxiv.org/abs/2205.13996)]
 
+**Dual-Generator Face Reenactment**<br>
+*Gee-Sern, Hsu Chun-Hung, Tsai Hung-Yi Wu. National Taiwan University of Science and Technology*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.pdf)]
+
+**Structure-Aware Motion Transfer with Deformable Anchor Model**<br>
+*Jiale Tao, Biao Wang, Borun Xu, Tiezheng Ge, Yuning Jiang, Wen Li, Lixin Duan*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2204.05018)]
+
 ## Vector Quantisation - Token-based Generative Models
 **Neural Discrete Representation Learning (VQVAE)**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer*<br>
