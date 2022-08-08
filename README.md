@@ -66,6 +66,9 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2202.13162)]
 **IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis.**<br>
 Submitted to SIGGRAPH-Asia. [[PDF](https://arxiv.org/abs/2205.15517)]
 
+**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis.**<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10257)]
+
 ## NeRF Editing
 
 **Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields.**<br>
