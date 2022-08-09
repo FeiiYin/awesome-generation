@@ -69,6 +69,11 @@ Submitted to SIGGRAPH-Asia. [[PDF](https://arxiv.org/abs/2205.15517)]
 **Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis.**<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10257)]
 
+## 3D-GAN Inversion
+
+**Monocular 3D Object Reconstruction with GAN Inversion.**<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10061)]
+
 ## NeRF Editing
 
 **Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields.**<br>
