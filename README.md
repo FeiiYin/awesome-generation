@@ -69,10 +69,16 @@ Submitted to SIGGRAPH-Asia. [[PDF](https://arxiv.org/abs/2205.15517)]
 **Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis.**<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10257)]
 
+**Generative Multiplane Images: Making a 2D GAN 3D-Aware.**<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10642)]
+
 ## 3D-GAN Inversion
 
 **Monocular 3D Object Reconstruction with GAN Inversion.**<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10061)]
+
+**NARRATE: A Normal Assisted Free-View Portrait Stylizer.**<br>
+Submitted to SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2207.00974)]
 
 ## NeRF Editing
 
