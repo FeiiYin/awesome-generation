@@ -53,10 +53,6 @@ CVPR WorkShop 2022. [[PDF](https://arxiv.org/abs/2205.06304)]
 **Towards High-Fidelity Face Self-occlusion Recovery via Multi-view Residual-based GAN Inversion.**<br>
 AAAI 2022. [[PDF](https://aaai-2022.virtualchair.net/poster_aaai2208)]
 
-**NARRATE: A Normal Assisted Free-View Portrait Stylizer.**<br>
-*Youjia Wang, Teng Xu, Yiwen Wu, Minzhang Li, Wenzheng Chen, Lan Xu, Jingyi Yu.*<br>
-Submitted to SIGGRAPH Asia 2022.
-
 ## 3D-GAN
 
 **Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
