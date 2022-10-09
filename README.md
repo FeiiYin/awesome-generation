@@ -53,6 +53,10 @@ CVPR WorkShop 2022. [[PDF](https://arxiv.org/abs/2205.06304)]
 **Towards High-Fidelity Face Self-occlusion Recovery via Multi-view Residual-based GAN Inversion.**<br>
 AAAI 2022. [[PDF](https://aaai-2022.virtualchair.net/poster_aaai2208)]
 
+**WAGI: Wavelet-based GAN Inversion for Preserving High-frequency Image Details.**<br>
+Submitted to ICLR 2023. [[PDF](https://openreview.net/pdf?id=ejQVau3Z-QQ)]
+
+
 ## 3D-GAN
 
 **Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
