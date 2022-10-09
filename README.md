@@ -80,6 +80,14 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10061)]
 **NARRATE: A Normal Assisted Free-View Portrait Stylizer.**<br>
 Submitted to SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2207.00974)]
 
+## Few-shot 3D Reconstruction
+
+**Geco-Nerf: Neural Radiance Fields with Geometric Consistency for Few-shot Novel View Synthesis.**<br>
+Submitted to ICLR 2023. [[PDF](https://openreview.net/pdf?id=WoByU5W5te0)]
+
+**SEGNERF: 3D PART SEGMENTATION WITH NEURAL RADIANCE FIELDS**<br>
+Submitted to ICLR 2023. [[PDF](https://openreview.net/pdf?id=D9WJEsALpI1)]
+
 ## NeRF Editing
 
 **Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields.**<br>
@@ -116,6 +124,9 @@ CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Hsu_Dual
 **Structure-Aware Motion Transfer with Deformable Anchor Model**<br>
 *Jiale Tao, Biao Wang, Borun Xu, Tiezheng Ge, Yuning Jiang, Wen Li, Lixin Duan*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2204.05018)]
+
+**Implicit Warping for Animation with Image Sets**<br>
+NIPs 2022. [[PDF](https://arxiv.org/pdf/2210.01794.pdf)]
 
 ## Vector Quantisation - Token-based Generative Models
 **Neural Discrete Representation Learning (VQVAE)**<br>
